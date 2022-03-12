@@ -37,3 +37,7 @@ https://www.youtube.com/watch?v=D10GXKd6alA
 
 2) https://www.youtube.com/watch?v=sgfWUeS6kVk    13min
 3) https://www.youtube.com/watch?v=-nRe2qHCdW8   (بد نیست ببینین)
+4) آموزش کامل Postman (ابزار تست API)
+https://rastava.academy/blog/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA%DB%8C-postman/
+6) چگونه APIهای خود را با Postman تست کنیم؟
+https://virgool.io/shayanweb/%DA%86%DA%AF%D9%88%D9%86%D9%87-api%D9%87%D8%A7%DB%8C-%D8%AE%D9%88%D8%AF-%D8%B1%D8%A7-%D8%A8%D8%A7-postman-%D8%AA%D8%B3%D8%AA-%DA%A9%D9%86%DB%8C%D9%85-rdkps5dn2ekz
