@@ -11,7 +11,8 @@ https://www.youtube.com/watch?v=D10GXKd6alA
 
 # postman 
 1) https://www.youtube.com/watch?v=qtoK8dVQTZg         33min 
-TABLE OF CONTENTS <br/>
+<div style='direction:rtl;'>
+  TABLE OF CONTENTS <br/>
 00:38 معرفی Postman <br/>
 01:19  <br/> راه اندازی
 03:59  <br/> آشنایی با محیط نرم‌افزار
@@ -29,6 +30,7 @@ TABLE OF CONTENTS <br/>
 <br/>27:24 response examples
 <br/>28:51 ایجاد تیم
 <br/>30:45 mocking
+</div>
 
 
 
