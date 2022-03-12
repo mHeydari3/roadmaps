@@ -11,12 +11,12 @@ https://www.youtube.com/watch?v=D10GXKd6alA
 
 # postman 
 1) https://www.youtube.com/watch?v=qtoK8dVQTZg         33min 
-TABLE OF CONTENTS
-00:38 معرفی Postman
-01:19 راه اندازی
-03:59 آشنایی با محیط نرم‌افزار
-05:00 آشنایی با کالکشن و ایجاد کالکشن جدید
-06:34 ایجاد Request و ارسال اولین درخواست
+TABLE OF CONTENTS <br/>
+00:38 معرفی Postman <br/>
+01:19  <br/> راه اندازی
+03:59  <br/> آشنایی با محیط نرم‌افزار
+05:00  <br/> آشنایی با کالکشن و ایجاد کالکشن جدید
+06:34 ایجاد Request <br/> و ارسال اولین درخواست
 09:46 تست نویسی و pre-request script
 14:18 ارسال اطلاعات در بدنه ریکوئست
 17:37 تنظیمات مربوط به request
